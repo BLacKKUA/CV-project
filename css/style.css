@@ -1,0 +1,97 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.main-block {
+   display: flex;
+   width: 90%;
+   margin: 40px auto;
+}
+.sidebar {
+   background-color: #1e2939;
+}
+.avatar-user {
+   padding: 40px 0 0 0;
+}
+
+.h3-style {
+   color: #ffffff;
+   font-weight: 700;
+   font-size: 22px;
+}
+
+.margin-section {
+   margin: 55px 0 0 40px;
+}
+.flex-column {
+   display: flex;
+   flex-direction: column;
+}
+.flex-column > a {
+   color: #e5e5e5;
+   text-decoration: none;
+   margin: 5px;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 100%;
+}
+
+.email {
+   text-decoration: underline;
+   margin: 0 0 0 5px;
+}
+
+.word-decoration {
+   color: #ffffff;
+   font-weight: 700;
+   text-decoration: none;
+}
+
+.margin-section > ul > li > span {
+   color: #ffffff;
+}
+.margin-section > ul > li {
+   color: #fb6d3a;
+}
+main {
+   margin: 100px 0 0 88px;
+}
+.fe-dev {
+   font-size: 14px;
+   font-weight: 700;
+   margin: 0 0 33px 0;
+}
+.name-surname {
+   font-size: 45px;
+   font-weight: 700;
+   margin: 0 0 33px 0;
+}
+main > .margin-section {
+   margin: 0 0 50px 0;
+}
+.about-me {
+   width: 400px;
+   color: #595959;
+   font-size: 14px;
+   line-height: 24px;
+   font-weight: 400px;
+}
+.head-text {
+   margin: 0 0 20px 0;
+}
+
+section > ol > li > a {
+   margin: 0 0 0 10px;
+   text-decoration: none;
+   color: #a8a8a8;
+}
+
+section > ol > li {
+   margin: 10px 0 0 0;
+   text-decoration: none;
+}
