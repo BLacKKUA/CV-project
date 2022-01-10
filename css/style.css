@@ -85,7 +85,7 @@ main > .margin-section {
    margin: 0 0 20px 0;
 }
 
-section > ol > li > a {
+section > ol a {
    margin: 0 0 0 10px;
    text-decoration: none;
    color: #595959;
@@ -93,7 +93,7 @@ section > ol > li > a {
 }
 
 section > ol > li {
-   margin: 10px 0 0 0;
+   margin: 10px 0 0 20px;
    text-decoration: none;
    font-weight: 700;
 }
